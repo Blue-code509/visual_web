@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.4.7",
+    "vite": "^6.1.1"
+  }
+}
